@@ -1,12 +1,13 @@
 body {
     font-family: 'Coral Pixels', monospace;
     margin: 20px;
-    background-color: papayawhip;
+    /* background-color: papayawhip; */
     color: #333333;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 30px;
 }
 
 h1 {
